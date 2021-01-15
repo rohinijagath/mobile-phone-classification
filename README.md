@@ -18,7 +18,7 @@ Assist mobile phone manufacturers or sellers in determining competitive price ra
 - The price range of a mobile phones in the dataset can be determined with high confidence.
 - The most influential feature that determined price is the RAM of the phone.
 
-# Machine Learning & Prediction of Listing Price
+# Machine Learning & Prediction Price Range
 - From the confusion matrices we observe that SVC and Logistic Regression perform similarly in classifying Class 0 and 3.
 - As theorised, Class 1 and 2 are a bit harder to classify as there is more overlap with the most significant feature, RAM. - Class 1 and 2 have more misclassified observations for all models.
 - SVC has a lower number of misclassifications for these classes overall, and would therefore be the selected model.
